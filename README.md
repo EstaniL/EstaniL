@@ -1,5 +1,10 @@
-### Hi there 👋
-# `console.log("Hello World")`
+## Hi I'm Estani! 👋 :grinning:
+<!--# `console.log("Hello World")`-->
+### I'm a Frontend Software Engineer with experience building websites and web applications
+#### Some technologies I enjoy working with include: React js, Javascript, Python, Django, Sql-server
+### Contact me:
+* My Personal [LinkedIn](https://www.linkedin.com/in/tomas-estanislao-lanta%C3%B1o-85b1a1188/)
+
 
 <!--
 **EstaniL/EstaniL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
